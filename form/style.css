@@ -1,0 +1,49 @@
+.none
+{background: #fff;
+    font-size: 1;
+    font-weight: 1000;
+    padding: 30px 40px;
+    border-radius: 12px;
+    width: 320px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+.none2
+{
+    
+    font-size: 5px;
+    font-weight: 100;              
+    font-size: 18px;
+    max-width: 500px;              
+    margin: 20px auto;             
+    text-align: center;
+    color: #333;                   
+    line-height: 1.6;              
+    font-family: Arial, sans-serif
+
+}
+.form 
+{background: #fff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    width: 320px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+
+}
+
+.input
+{
+    width: 100%;
+            line-height: 30px;     
+    margin-top: 8px;
+    border-radius: 8px;
+    
+    font-size: 16px;      
+    outline: none;
+    transition: 0.z;
+    
+}
+.PARA{
+    font: size 2px; ;
+    font-weight: 800;
+    
+}
